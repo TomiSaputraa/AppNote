@@ -1,16 +1,5 @@
-# note_app
+# Note App
 
-A new Flutter project.
+[![N|Solid](https://camo.githubusercontent.com/b6d2d66adc138025ea9cdf8444cdc29a588c98d062c263f8651ba6b7ad46fef0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d2532333032353639422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d466c7574746572266c6f676f436f6c6f723d7768697465)](https://nodesource.com/products/nsolid)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi notes sederhana yang dibuat menggunakan flutter
